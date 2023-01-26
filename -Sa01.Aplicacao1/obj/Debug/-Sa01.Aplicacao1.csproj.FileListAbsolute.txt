@@ -1,0 +1,8 @@
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\bin\Debug\-Sa01.Aplicacao1.exe.config
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\bin\Debug\-Sa01.Aplicacao1.exe
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\bin\Debug\-Sa01.Aplicacao1.pdb
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\obj\Debug\-Sa01.Aplicacao1.csproj.AssemblyReference.cache
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\obj\Debug\-Sa01.Aplicacao1.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\obj\Debug\-Sa01.Aplicacao1.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\obj\Debug\-Sa01.Aplicacao1.exe
+C:\Users\joaob\source\repos\SolucaoTerceiraSemana\-Sa01.Aplicacao1\obj\Debug\-Sa01.Aplicacao1.pdb
